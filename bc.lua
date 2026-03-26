@@ -1,7 +1,7 @@
 -- 냥코 대전쟁 VVIP 최적화 모드 메뉴 (통합 완전 해제 버전)
 -- 파일명: bc.lua
 
-local SCRIPT_VERSION = "1.2"
+local SCRIPT_VERSION = "1.1"
 -- 깃허브 Raw 주소 (끝에 / 포함)
 local GITHUB_RAW_URL = "https://raw.githubusercontent.com/KILX07/BC.lua.koris/refs/heads/main/"
 
